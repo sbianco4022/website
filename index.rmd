@@ -1,0 +1,10 @@
+---
+title: "Home Page"
+author: "Bianco"
+date: "August 15, 2018"
+output: html_document
+---
+
+This is the website home or landing page
+
+Welcome!

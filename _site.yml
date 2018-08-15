@@ -1,0 +1,24 @@
+name: "Stephanie Bianco"
+output_dir: "."
+navbar:
+  title: "Bianco Webpage"
+  left:
+      - text: "Schedule"
+        icon: fa-database
+        href: http://example.com
+  
+  right:
+      - text: "Syllabus"
+        icon: fa-info-circle
+        href: syllabus.html
+  
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no
+
+
+ 
+    
